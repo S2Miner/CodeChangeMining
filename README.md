@@ -6,13 +6,13 @@ This repository contains the mining results of the research paper  "Mining for S
 
 * all/ 
 
-In this directory, it mainly contains the clustering results of 10,736 code changes.
+In this directory, it mainly contains the clustering results of 14,111 code changes.
 All these code changes are extracted from 87 open-source projects on github. All these projects are used in [work of Hoan Nguyen et al.
 ](https://2019.icse-conferences.org/details/icse-2019-Technical-Papers/39/Graph-based-Mining-of-In-the-Wild-Fine-grained-Semantic-Code-Change-Patterns). 
 
 * all/start-end.json
 
-We have indexed these code changed for 0 to 10,735. Each 1000 of these code changes has been store in file "start-end.json", where **start** corresponds to the smallest id in this file and **end** corresponds to the largest id in this file.
+We have indexed these code changed for 0 to 14,110. Each 1000 of these code changes has been store in file "start-end.json", where **start** corresponds to the smallest id in this file and **end** corresponds to the largest id in this file.
 
 Each method are stored with 6 meta data:
 
@@ -24,6 +24,6 @@ Each method are stored with 6 meta data:
 
 * all/clusters.json
 
-This file contains the clustering result of these 10,736 code changes. Each cluster corresponds to a group of similar code changes which we mine from 10,736 code changes. 
+This file contains the clustering result of these 14,111 code changes. Each cluster corresponds to a group of similar code changes which we mine from 14,111 code changes. 
 
 Each cluster has been represented with a group of code change ids.
