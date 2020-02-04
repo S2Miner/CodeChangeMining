@@ -4,6 +4,9 @@ This repository contains the mining results of the research paper  "Mining for S
 
 ## Data Structure
 
+* sourcecode/
+In this directory, it contains the source code of SCMiner.
+
 * all/ 
 
 In this directory, it mainly contains the clustering results of 111,187 code changes.
