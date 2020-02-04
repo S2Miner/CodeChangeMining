@@ -1,6 +1,6 @@
 # SSCC
 
-This repository contains the mining results of the research paper  "Mining for Structural Similar Code Changes" of ICSE2020.
+This repository contains the mining results of the research paper  "Mining for Structural Similar Code Changes" of ICPC2020.
 
 ## Data Structure
 
