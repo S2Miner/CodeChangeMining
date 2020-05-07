@@ -1,11 +1,11 @@
-# SCMiner
+# S2Miner
 
-This repository contains the mining results of the research paper  "Mining for Structural Similar Code Changes" of ICPC2020.
+This repository contains the mining results of S2Miner.
 
 ## Data Structure
 
 * sourcecode/
-In this directory, it contains the source code of SCMiner.
+In this directory, it contains the source code of S2Miner.
 
 * all/ 
 
